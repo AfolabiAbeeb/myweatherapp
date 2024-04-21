@@ -1,0 +1,19 @@
+
+
+body {
+  height: 100%;
+  background-image: url(https://media.istockphoto.com/id/1360554439/photo/maldives-tropical-island.jpg?b=1&s=170667a&w=0&k=20&c=AWY54kmUT9IcXJZdSdxxm5JUFK_3fxpmMbWQ6IhEG50=);
+  background-size: cover;
+  padding: 1rem;
+}
+td {
+  height: 80px;
+  padding-left: 20px;
+}
+input {
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  width: 200px;
+}
+
